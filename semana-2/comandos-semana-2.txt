@@ -1,0 +1,8 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+nano preguntas-semana2.txt
+nano comandos-semana2.txt
+nano reflexion-semana2.txt
+

@@ -1,0 +1,26 @@
+1. Lavarse las manos antes de manipular alimentos
+2. Reunir los ingredientes y utensilios necesarios
+   (pan, huevos,sarten, etc)
+3.Encender la estufa o preparar el lugar de trabajo
+4.Cocinar los alimentos (por ejemplo, freír los
+  huevos o tostar el pan)
+5.Servir el desayuno en un plato
+6.Preparar una bebida (café, jugo o leche)
+7.Sentarse a comer el desayuno
+8.Lavar los utensilios utilizados
+
+
+---------------------------------------------------
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para 
+explicar:
+
+Cómo compartir información confiable en internet.
+
+1. entrar a una red social
+2. ver una noticia que me llame mucho la atencion
+3. verificar el autor de la publicacion 
+4. verificar la fuente original de la noticia
+5. verificar en otros medios oficiales la veracidad
+   de la noticia
+6. leer los comunicados oficiales sobre el tema

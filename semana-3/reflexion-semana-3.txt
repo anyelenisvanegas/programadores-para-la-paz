@@ -1,0 +1,11 @@
+Mantener un registro de cambios con Git permite
+controlar todas las modificaciones del código.
+Facilita saber qué se cambió,cuándo y quién lo
+hizo Ayuda a corregir errores al poder volver a
+versiones anteriores. Mejora la colaboración entre
+varios desarrolladores. Evita la pérdida de
+informacion importante del proyecto. Organiza el
+trabajo mediante un historial claro y ordenado.
+Permite probar nuevas ideas sin afectar la versión
+principal.En general, aumenta la eficiencia y la
+calidad del desarrollo de software.

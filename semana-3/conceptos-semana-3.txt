@@ -1,0 +1,11 @@
+escribe una explicación corta de los siguientes 
+conceptos:
+
+Repositorio: lugar donde se guardan los archivos y
+el historial de cambios de un proyecto.
+
+Commit: registro o “foto” de los cambios realizados
+en un momento especifico.
+
+Push: acción de enviar los cambios al repositorio
+remoto para compartirlos.
