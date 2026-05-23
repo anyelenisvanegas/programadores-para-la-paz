@@ -1,0 +1,19 @@
+Pregunta 9 — Reflexión de la semana
+
+Escribe un texto de 8 a 10 líneas respondiendo la 
+siguiente pregunta:
+
+¿Cómo podrían las APIs ayudar a que las comunidades
+compartan información, reportes o alertas de 
+manera organizada?
+
+Las APIs ayudan a las comunidades a compartir información de forma rápida y organizada.
+Permiten conectar aplicaciones, páginas web y sistemas entre sí.
+Gracias a ellas, los ciudadanos pueden enviar reportes o alertas fácilmente.
+La información llega automáticamente a las autoridades o usuarios correspondientes.
+También facilitan actualizaciones en tiempo real sobre emergencias o problemas.
+Las APIs mantienen los datos ordenados y accesibles para todos.
+Esto mejora la comunicación y la participación de la comunidad.
+En conclusión, las APIs hacen más eficiente el intercambio de información.
+
+
